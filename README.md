@@ -105,7 +105,7 @@ Grievance/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/grievance-tracking.git
+https://github.com/sridevis7/DigitalGrievanceWeb/tree/main
 ```
 
 Or download the ZIP file and extract it.
